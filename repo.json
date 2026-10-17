@@ -1,0 +1,8 @@
+{
+    "name": "HDFC Dual Repo",
+    "description": "HDFilmCehennemi + bağımsız zamanlamalı çift altyazı (TR/EN)",
+    "manifestVersion": 1,
+    "pluginLists": [
+        "https://raw.githubusercontent.com/kayrap-10/hdfcdual-cloudstream/builds/plugins.json"
+    ]
+}
